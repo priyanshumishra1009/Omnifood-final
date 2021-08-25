@@ -340,6 +340,9 @@ body {
   margin-right: -1.6rem;
   border: 3px solid #fdf2e9;
 }
+ .delivered-imgs img:hover{
+    scale: 1px;
+  }
 
 .delivered-imgs img:last-child {
   margin: 0;
